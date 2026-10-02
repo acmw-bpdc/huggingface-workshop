@@ -12,7 +12,7 @@ No prior machine learning experience required. If you can run a code cell, you c
 
 ## About
 
-This repo contains the materials for a ~2 hour (trimmable to 90 min) hands-on workshop introducing [Hugging Face Transformers](https://huggingface.co/docs/transformers/index). Attendees go from "what even is a transformer?" to fine-tuning and deploying their own model, all inside a free Google Colab notebook — no local setup needed.
+This repo contains the materials for a hands-on workshop introducing [Hugging Face Transformers](https://huggingface.co/docs/transformers/index). Attendees go from "what even is a transformer?" to fine-tuning and deploying their own model, all inside a free Google Colab notebook — no local setup needed.
 
 ## What you'll learn
 
