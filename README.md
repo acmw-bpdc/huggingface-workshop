@@ -35,7 +35,6 @@ By the end of this workshop, participants will be able to:
 acmw-transformers/
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── notebooks/
 │   ├── workshop_solution.ipynb    Complete, fully-executable reference notebook
 │   └── workshop_starter.ipynb     Guided notebook with select cells left as exercises
