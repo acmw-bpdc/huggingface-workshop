@@ -36,10 +36,10 @@ acmw-transformers/
 ├── README.md
 ├── LICENSE
 ├── notebooks/
-│   ├── workshop_solution.ipynb    Complete, fully-executable reference notebook
-│   └── workshop_starter.ipynb     Guided notebook with select cells left as exercises
+│   ├── workshop_solution.ipynb    # Complete, fully-executable reference notebook
+│   └── workshop_starter.ipynb     # Guided notebook with select cells left as exercises
 └── resources/
-    └── CHEATSHEET.md              Quick-reference of pipeline tasks and code snippets
+    └── CHEATSHEET.md              # Quick-reference of pipeline tasks and code snippets
 ```
 
 ---
