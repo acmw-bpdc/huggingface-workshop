@@ -2,7 +2,7 @@
 
 A hands-on, beginner-friendly workshop on using (and fine-tuning!) transformer models with the Hugging Face ecosystem — built for ACM-W.
 
-[![Open Starter in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pqa7Vt1NHxxd3AtOKhA_Nt3EcJaB3_Qp?usp=sharing) 
+[![Open Starter in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eG24yrQF0dN8zCd27_K2nHkRxT9XsnTz?usp=sharing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 No prior machine learning experience required. If you can run a code cell, you can do this.
